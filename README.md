@@ -17,11 +17,11 @@ interrupts the IR beam.
 
 ## Block diagram
 
-![Alt text](https://github.com/melagirisriharirao/smartgreenhouse/blob/master/bd.PNG?raw=true "Block diagram of Safe Turn Indication System.")
+![Alt text](https://github.com/melagirisriharirao/safeturnindicationsystem/blob/master/bd.jpg?raw=true "Block diagram of Safe Turn Indication System.")
 
 ## Hardware connection overview
 
-![Alt text](https://github.com/melagirisriharirao/smartgreenhouse/blob/master/hw.png?raw=true "Hardware connections of Safe Turn Indication System.")
+![Alt text](https://github.com/melagirisriharirao/safeturnindicationsystem/blob/master/hw.jpg?raw=true "Hardware connections of Safe Turn Indication System.")
 
 ## Author
 
